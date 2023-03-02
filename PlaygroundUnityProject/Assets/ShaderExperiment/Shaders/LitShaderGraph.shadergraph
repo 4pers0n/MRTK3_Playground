@@ -5,7 +5,11 @@
     "m_Properties": [],
     "m_Keywords": [],
     "m_Dropdowns": [],
-    "m_CategoryData": [],
+    "m_CategoryData": [
+        {
+            "m_Id": "896f994205cf426693d296be8e299f5e"
+        }
+    ],
     "m_Nodes": [
         {
             "m_Id": "5e49e1569f7047fcae820292d4559521"
@@ -339,7 +343,7 @@
     "m_Hidden": false,
     "m_ShaderOutputName": "Metallic",
     "m_StageCapability": 2,
-    "m_Value": 0.0,
+    "m_Value": 1.5099999904632569,
     "m_DefaultValue": 0.0,
     "m_Labels": []
 }
@@ -375,6 +379,14 @@
         "m_SerializableColors": []
     },
     "m_SerializedDescriptor": "VertexDescription.Tangent"
+}
+
+{
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.CategoryData",
+    "m_ObjectId": "896f994205cf426693d296be8e299f5e",
+    "m_Name": "",
+    "m_ChildObjectList": []
 }
 
 {
@@ -522,9 +534,9 @@
     "m_ShaderOutputName": "BaseColor",
     "m_StageCapability": 2,
     "m_Value": {
-        "x": 0.5,
-        "y": 0.5,
-        "z": 0.5
+        "x": 0.8679245114326477,
+        "y": 0.0,
+        "z": 0.0
     },
     "m_DefaultValue": {
         "x": 0.0,
@@ -551,7 +563,7 @@
     "m_Hidden": false,
     "m_ShaderOutputName": "Smoothness",
     "m_StageCapability": 2,
-    "m_Value": 0.5,
+    "m_Value": 18.540000915527345,
     "m_DefaultValue": 0.5,
     "m_Labels": []
 }
